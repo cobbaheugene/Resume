@@ -51,6 +51,15 @@ body{
     overflow: hidden;
 }
 
+.profileText .imgBx img {
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+}
+
 .container .right-side{
     position: relative;
     background: #fff;
